@@ -1,7 +1,5 @@
 # Protein Expression Profile Prediction from Gene Expression Profile
 
-# Multi-task Contractive and Variational Autoencoder
-
 This repository hosts the code for a Contractive Autoencoder model and a Variational Autoencoder model designed to perform multi-task learning on biological data, particularly for predicting mRNA expression profiles, protein expression profiles, and cancer types from RNA expression profiles.
 
 ## Overview
